@@ -1,0 +1,10 @@
+Python is fun.
+I like learning Python.
+Files are easy to read and write.
+Text processing is powerful.
+Python is versatile.
+Data science uses Python a lot.
+Machine learning is cool.
+Artificial intelligence is the future.
+Practice makes perfect.
+Keep coding every day.
